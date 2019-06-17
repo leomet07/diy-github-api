@@ -1,2 +1,3 @@
 # github-login
-python + chrome + chrome webdriver + selenium
+python3 + chrome + chrome webdriver + selenium
+Your computer must have all of these.
