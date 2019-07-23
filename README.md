@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Github Api 👋</h1>
+<h1 align="center">Github Api</h1>
 <p>
 </p>
 
@@ -7,7 +7,7 @@
 ## Install
 
 ```sh
-npm install
+Clone this repo or download the files.
 ```
 
 ## Usage
