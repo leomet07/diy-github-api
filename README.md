@@ -6,21 +6,25 @@
 
 ## Install
 
-```sh
+
 Clone this repo or download the files.
+Run the following commands:
+```
+pip install selenium
 ```
 
 ## Usage
 
-```
+
 Run the Loginandnewrepo.py file with the selenium python package and chrome installed. Make sure that the chromedriver file is in the same directory as the python file.
-```
+
 
 ## Author
 
-👤 **Leonid Metlitsky**
+**Leonid Metlitsky**
 
 * Github: [@leomet07](https://github.com/leomet07)
+* Email: [@leomet07](mailto: leomet07@gmail.com)
 
 ## Show your support
 
