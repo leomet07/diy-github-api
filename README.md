@@ -24,7 +24,7 @@ Run the Loginandnewrepo.py file with the selenium python package and chrome inst
 **Leonid Metlitsky**
 
 * Github: [@leomet07](https://github.com/leomet07)
-* Email: (mailto:leomet07@gmail.com)
+* Email: mailto:leomet07@gmail.com
 
 ## Show your support
 
