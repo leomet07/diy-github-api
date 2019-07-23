@@ -12,7 +12,7 @@ Clone this repo or download the files.
 
 ## Usage
 
-```sh
+```
 Run the Loginandnewrepo.py file with the selenium python package and chrome installed. Make sure that the chromedriver file is in the same directory as the python file.
 ```
 
